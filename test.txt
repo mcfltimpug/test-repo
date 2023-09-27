@@ -1,7 +1,0 @@
-sdf
-foo
-bar
-baz
-
-ABCD	1234
-ABC		1234
